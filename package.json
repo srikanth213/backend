@@ -1,0 +1,28 @@
+{
+  "name": "MS_Imgur---backend_Pegasus_Tep_Online_Full-time_2021_3",
+  "version": "1.0.0",
+  "description": "## Learning Competencies",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Imgur---backend_Pegasus_Tep_Online_Full-time_2021_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Imgur---backend_Pegasus_Tep_Online_Full-time_2021_3/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Imgur---backend_Pegasus_Tep_Online_Full-time_2021_3#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7"
+  }
+}
